@@ -1,0 +1,9 @@
+{
+  "name": "semantic-versioning-sample-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pgcalixto/semantic-versioning-sample-repo.git",
+  "author": "Pedro Calixto <pgcalixto@gmail.com>",
+  "license": "GPL-3.0-only",
+  "private": true
+}
