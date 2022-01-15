@@ -5,5 +5,8 @@
   "repository": "git@github.com:pgcalixto/semantic-versioning-sample-repo.git",
   "author": "Pedro Calixto <pgcalixto@gmail.com>",
   "license": "GPL-3.0-only",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "semantic-release": "^18.0.1"
+  }
 }
